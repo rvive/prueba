@@ -1,0 +1,9 @@
+/home/vive/c++/build/CMakeFiles/rebuild_cache.dir
+/home/vive/c++/build/CMakeFiles/histogram_rc.dir
+/home/vive/c++/build/CMakeFiles/histogram.dir
+/home/vive/c++/build/CMakeFiles/mocap.dir
+/home/vive/c++/build/CMakeFiles/edges.dir
+/home/vive/c++/build/CMakeFiles/contours_inex.dir
+/home/vive/c++/build/CMakeFiles/edit_cache.dir
+/home/vive/c++/build/CMakeFiles/contours_th.dir
+/home/vive/c++/build/CMakeFiles/contours.dir
